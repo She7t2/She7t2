@@ -96,9 +96,10 @@
         <div class="section contact">
             <h2>📫 How to Reach Me</h2>
             <ul>
-                <li><strong>Email</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-                <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourprofile/">Your LinkedIn Profile</a></li>
-                <li><strong>Twitter</strong>: <a href="https://twitter.com/yourhandle">@yourhandle</a></li>
+                <li><strong>Email</strong>: <a href="abdullahshehata90@gmail.com
+">your.email@example.com</a></li>
+                <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/abdullah-shehata-920737234/">Your LinkedIn Profile</a></li>
+                </li>
             </ul>
         </div>
         <div class="section blog">
